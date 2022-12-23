@@ -1,0 +1,7 @@
+--Error Codes--
+
+0 = closed with no errors
+1 = closed with warning
+2 = closed with error
+3 = not enough memory
+4 = anti-hack activated
